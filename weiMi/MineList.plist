@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WeiMiForgetPwdVC</key>
+	<string>WeiMiForgetPwdVC</string>
+	<key>WeiMiCreditExchangeVC</key>
+	<string>WeiMiCreditExchangeVC/:creditNum</string>
+	<key>WeiMiAppRecommendVC</key>
+	<string>WeiMiAppRecommendVC</string>
+	<key>WeiMiBirthVC</key>
+	<string>WeiMiBirthVC</string>
+	<key>WeiMiLevelIntroVC</key>
+	<string>WeiMiLevelIntroVC</string>
+	<key>WeiMiMyLevelVC</key>
+	<string>WeiMiMyLevelVC</string>
+	<key>WeiMiRefundVC</key>
+	<string>WeiMiRefundVC</string>
+	<key>WeiMiOrderUnpayVC</key>
+	<string>WeiMiOrderUnpayVC</string>
+	<key>WeMiCommentOrderVC</key>
+	<string>WeMiCommentOrderVC</string>
+	<key>WeiMiLogisticsDetailVC</key>
+	<string>WeiMiLogisticsDetailVC</string>
+	<key>WeiMiRegisterVC</key>
+	<string>WeiMiRegisterVC</string>
+	<key>WeiMiLogInVC</key>
+	<string>WeiMiLogInVC</string>
+	<key>WeiMiRecAddressVC</key>
+	<string>WeiMiRecAddressVC</string>
+	<key>WeiMiPrivilegeVC</key>
+	<string>WeiMiPrivilegeVC</string>
+	<key>WeiMiMyCollectionVC</key>
+	<string>WeiMiMyCollectionVC</string>
+	<key>WeiMiPersonInfoVC</key>
+	<string>WeiMiPersonInfoVC</string>
+	<key>WeiMiMyGiftVC</key>
+	<string>WeiMiMyGiftVC</string>
+	<key>WeiMiCreditShopVC</key>
+	<string>WeiMiCreditShopVC</string>
+	<key>WeiMiSettingVC</key>
+	<string>WeiMiSettingVC</string>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.h
+//  weiMi
+//
+//  Created by 李晓荣 on 16/8/2.
+//  Copyright © 2016年 madaoCN. All rights reserved.
+//
+
+#ifndef PrefixHeader_h
+#define PrefixHeader_h
+
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "WeiMiConstant.h"
+    #import "WeiMiCategory.h"
+    #import <Masonry.h>
+    #import "WeiMiPageSkipManager.h"
+    #import "Routable.h"
+    #import "WeiMiUserCenter.h"
+
+#endif /* PrefixHeader_h */

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WeiMiInvitationVC</key>
+	<string>WeiMiInvitationVC</string>
+	<key>WeiMiGoodsDetailVC</key>
+	<string>WeiMiGoodsDetailVC/:productId</string>
+	<key>WeiMiHomePageChoiceVC</key>
+	<string>WeiMiHomePageChoiceVC</string>
+	<key>WeiMiTryOutDetailVC</key>
+	<string>WeiMiTryOutDetailVC</string>
+	<key>WeiMiApplyContentVC</key>
+	<string>WeiMiApplyContentVC</string>
+	<key>WeiMiApplyDetailVC</key>
+	<string>WeiMiApplyDetailVC</string>
+	<key>WeiMiPurchaseGoodsVC</key>
+	<string>WeiMiPurchaseGoodsVC</string>
+	<key>WeiMiHomeActivityDetailVC</key>
+	<string>WeiMiHomeActivityDetailVC</string>
+	<key>WeiMiNewestATVC</key>
+	<string>WeiMiNewestATVC</string>
+</dict>
+</plist>

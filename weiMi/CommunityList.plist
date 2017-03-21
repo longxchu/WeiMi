@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WeiMiCommentDetail</key>
+	<string>WeiMiCommentDetail/:hasAnswer/:isAn</string>
+	<key>WeiMiRQDetailVC</key>
+	<string>WeiMiRQDetailVC/:hasAnswer/:isAn</string>
+	<key>WeiMiWomenWhisperVC</key>
+	<string>WeiMiWomenWhisperVC</string>
+	<key>WeiMiOtherUsersVC</key>
+	<string>WeiMiOtherUsersVC</string>
+	<key>WeiMiCircleCommentVC</key>
+	<string>WeiMiCircleCommentVC/:title/:ringId</string>
+	<key>WeiMiInvitationVC</key>
+	<string>WeiMiInvitationVC</string>
+	<key>WeiMiOnlineDetailVC</key>
+	<string>WeiMiOnlineDetailVC/:title</string>
+	<key>WeiMiCircleListVC</key>
+	<string>WeiMiCircleListVC/:title</string>
+	<key>WeiMiStrangerVC</key>
+	<string>WeiMiStrangerVC</string>
+	<key>WeiMiMsgMyFriendsVC</key>
+	<string>WeiMiMsgMyFriendsVC</string>
+	<key>WeiMiAllCircleVC</key>
+	<string>WeiMiAllCircleVC</string>
+	<key>WeiMiCommunitySysNotiVC</key>
+	<string>WeiMiCommunitySysNotiVC</string>
+	<key>WeiMiCommunityReplyMeMsgVC</key>
+	<string>WeiMiCommunityReplyMeMsgVC</string>
+</dict>
+</plist>
